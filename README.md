@@ -1,6 +1,6 @@
 # _{Application Name}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### Allow a librarian and patron access to a library of books.
 
 #### By _**{List of contributors}**_
 
@@ -17,6 +17,16 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _x _
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+
+## TASKS REMAINING
+* Work left off on Book.php to create function collecting author and copy info for any selected book.
+* Create twig page for individual books.
+* Allow a patron to checkout a copy of a book.
+* Prevent a patron from checking out too many copies of a book in the library.
+* Show due_date of book checked out.
+* Allow a librarian and/or patron to view their checkout history.
+* Librarian can view overdue returns books.
+* Create functionality for a patron to return a book.
 
 ## Known Bugs
 
